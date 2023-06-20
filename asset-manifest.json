@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DecOfCards-React/static/css/main.00793de6.css",
+    "main.js": "/DecOfCards-React/static/js/main.57430399.js",
+    "static/js/787.79425bb4.chunk.js": "/DecOfCards-React/static/js/787.79425bb4.chunk.js",
+    "index.html": "/DecOfCards-React/index.html",
+    "main.00793de6.css.map": "/DecOfCards-React/static/css/main.00793de6.css.map",
+    "main.57430399.js.map": "/DecOfCards-React/static/js/main.57430399.js.map",
+    "787.79425bb4.chunk.js.map": "/DecOfCards-React/static/js/787.79425bb4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00793de6.css",
+    "static/js/main.57430399.js"
+  ]
+}
